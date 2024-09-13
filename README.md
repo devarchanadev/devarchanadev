@@ -1,3 +1,4 @@
+![logo](https://github.com/devarchanadev/devarchanadev/blob/main/Data%20Science%20Machine%20Learning.png)
 <h1 align="center">Hi 👋, I'm Devarchana Dev Choudhury</h1>
 <h3 align="center">A Data Science and AI enthusiast</h3>
 
