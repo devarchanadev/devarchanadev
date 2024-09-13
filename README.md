@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Devarchana Dev Choudhury</h1>
 <h3 align="center">A Data Science and AI enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://joyceh.com.au/wp-content/uploads/2020/05/ezgif.com-optimize.gif">
+<img align="right" alt="coding" width="260" src="https://joyceh.com.au/wp-content/uploads/2020/05/ezgif.com-optimize.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarchanadev&label=Profile%20views&color=0e75b6&style=flat" alt="devarchanadev" /> </p>
 
