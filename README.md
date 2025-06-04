@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **my projects, their business impact**
 
-- 📫 How to reach me **devarcha@buffalo.edu**
+- 📫 How to reach me **devarchanadev9@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/devarchana-dev-choudhury/](https://www.linkedin.com/in/devarchana-dev-choudhury/)
 
